@@ -29,12 +29,19 @@ Features
 The data is available in 7 csv files:
 
 customers.csv
+
 sellers.csv
+
 order_items.csv
+
 geolocation.csv
+
 payments.csv
+
 orders.csv
+
 products.csv
+
 Potential Use Cases:
 
 Analyzing this dataset offers valuable insights into Target's Brazilian operations, revealing details about order processing, pricing strategies, payment and shipping efficiency, customer demographics, product characteristics, and customer satisfaction. This comprehensive dataset is a valuable resource for understanding various business aspects and enhancing strategic decision-making.
