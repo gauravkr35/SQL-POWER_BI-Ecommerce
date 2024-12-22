@@ -29,11 +29,17 @@ Features
 The data is available in 7 csv files:
 
 customers.csv
+
 sellers.csv
+
 order_items.csv
+
 geolocation.csv
+
 payments.csv
+
 orders.csv
+
 products.csv
 
 Potential Use Cases:
