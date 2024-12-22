@@ -1,2 +1,2 @@
 # SQL-POWER_BI-Ecommerce
-Data Analytics
+E-Commerce Data Analysis Project
